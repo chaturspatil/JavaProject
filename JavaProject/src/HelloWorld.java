@@ -5,5 +5,7 @@ public class HelloWorld {
 		
 		System.out.println("Hi Git .... how are you...");
 		
+		System.out.println("Hi java ...");
+		
 	}
 }
